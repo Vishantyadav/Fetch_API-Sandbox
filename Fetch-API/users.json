@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Vishant Yadav",
+        "age": 18,
+        "gender": "male"
+    },
+    {
+        "name": "Saurabh Yadav",
+        "age": 12,
+        "gender": "male"
+    },
+    {
+        "name": "Harsh Agarwal",
+        "age": 14,
+        "gender": "female"
+    }
+]
